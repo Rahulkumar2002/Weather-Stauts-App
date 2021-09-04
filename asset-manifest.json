@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/Weather-Stauts-App/static/css/main.16474550.chunk.css",
+    "main.js": "/Weather-Stauts-App/static/js/main.1cba31b4.chunk.js",
+    "main.js.map": "/Weather-Stauts-App/static/js/main.1cba31b4.chunk.js.map",
+    "runtime-main.js": "/Weather-Stauts-App/static/js/runtime-main.a2121a35.js",
+    "runtime-main.js.map": "/Weather-Stauts-App/static/js/runtime-main.a2121a35.js.map",
+    "static/js/2.13c9a040.chunk.js": "/Weather-Stauts-App/static/js/2.13c9a040.chunk.js",
+    "static/js/2.13c9a040.chunk.js.map": "/Weather-Stauts-App/static/js/2.13c9a040.chunk.js.map",
+    "index.html": "/Weather-Stauts-App/index.html",
+    "static/css/main.16474550.chunk.css.map": "/Weather-Stauts-App/static/css/main.16474550.chunk.css.map",
+    "static/js/2.13c9a040.chunk.js.LICENSE.txt": "/Weather-Stauts-App/static/js/2.13c9a040.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a2121a35.js",
+    "static/js/2.13c9a040.chunk.js",
+    "static/css/main.16474550.chunk.css",
+    "static/js/main.1cba31b4.chunk.js"
+  ]
+}
